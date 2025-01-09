@@ -1,1 +1,2 @@
 mod p3110_score_of_string;
+mod p1929_concatenation_of_array;
