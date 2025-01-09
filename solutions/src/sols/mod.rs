@@ -1,2 +1,3 @@
 mod p3110_score_of_string;
 mod p1929_concatenation_of_array;
+mod p3190_minimum_operations_for_divisible_by_three;
