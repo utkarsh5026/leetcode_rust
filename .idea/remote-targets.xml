@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL - Ubuntu" type="wsl" uuid="ba75e5fd-3a08-4399-8a15-1264c685cd1c">
+        <config>
+          <option name="distributionMsId" value="Ubuntu" />
+          <option name="projectRootOnTarget" value="{exitCode=0, timeout=false, cancelled=false, stdout=/tmp/tmp.NYwaAETr46&#10;, stderr=}/leetcode_rust" />
+        </config>
+        <ContributedStateBase type="RsLanguageRuntime">
+          <config>
+            <option name="cargoPath" value="/home/utkarsh5026/.cargo/bin/cargo" />
+            <option name="cargoVersion" value="1.84.0 (66221abde 2024-11-19)" />
+            <option name="rustcPath" value="/home/utkarsh5026/.cargo/bin/rustc" />
+            <option name="rustcVersion" value="1.84.0 (9fc6b4312 2025-01-07)" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
