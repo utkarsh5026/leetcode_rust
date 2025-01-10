@@ -4,3 +4,4 @@ mod p3190_minimum_operations_for_divisible_by_three;
 mod p2185_counting_words_with_given_prefix;
 mod p0088_merge_sorted_array;
 mod p0027_remove_element;
+mod p0026_remove_duplicate_from_sorted_array;
