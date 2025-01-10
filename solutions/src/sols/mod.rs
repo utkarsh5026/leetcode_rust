@@ -6,3 +6,4 @@ mod p0088_merge_sorted_array;
 mod p0027_remove_element;
 mod p0026_remove_duplicate_from_sorted_array;
 mod p0080_remove_duplicates_from_array_II;
+mod p0169_majority_element;
