@@ -27,3 +27,11 @@ bash
 cd solutions
 cargo test # Run all the tests
 ```
+
+# LeetCode Solutions
+
+This repository contains my solutions to various LeetCode problems.
+
+## Note on Authorship
+- All LeetCode solution implementations are written by me
+- Documentation and tests are AI-generated using Claude
